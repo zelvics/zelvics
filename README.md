@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/1047836627797557288/1047969377523351644/ZELVICS_GIT.png?width=1054&height=527)]
+![MasterHead](https://media.discordapp.net/attachments/1047836627797557288/1047969377523351644/ZELVICS_GIT.png?width=1054&height=527)
 <h1 align="center">✧ zelvics ✧</h1>
 <h3 align="center">Freelance web developer, graphics designer and video editor.</h3>
 
