@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kieran6000&label=Profile%20views&color=0e75b6&style=flat" alt="kieran6000" /> </p>
 
-- 🖥️ My projects are available at [https://zelvics.github.io]
+- 🖥️ My socials are available at [https://zelvics.com]
 
 
 <h3 align="left">Languages and Tools I use:</h3>
