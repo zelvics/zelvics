@@ -1,6 +1,6 @@
 ![MasterHead](https://media.discordapp.net/attachments/1047836627797557288/1047969377523351644/ZELVICS_GIT.png?width=1054&height=527)
 <h1 align="center">✧ zelvics ✧</h1>
-<h3 align="center">Freelance web developer, graphics designer and video editor.</h3>
+<h3 align="center">Freelance web developer, graphic designer and video editor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kieran6000&label=Profile%20views&color=0e75b6&style=flat" alt="kieran6000" /> </p>
 
