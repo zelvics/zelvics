@@ -11,12 +11,12 @@ print(f'Follow {zelvics} on Github')
 ```
 
 ```python
-  Discord  :  544586957452345374
-   Server  :  717716489221963858
+  Discord  :  zelvics#0001 
+   Server  :  discord.gg/bypassed
 ```
 
 ```json
-sub to zelvics.
+sub to zelvics
 ```
 
 <a href="https://discord.gg/bypassed" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
