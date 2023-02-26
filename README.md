@@ -7,10 +7,6 @@
 </p>
 
 ```python
-print(f'Follow {zelvics} on Github')
-```
-
-```python
   Discord  :  zelvics#0001 
    Server  :  discord.gg/bypassed
 ```
