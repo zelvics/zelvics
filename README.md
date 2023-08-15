@@ -4,4 +4,4 @@
   yo
 ```
 
-<a href="https://discord.com/users/727930988537053214" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="https://discord.com/users/381053166893924363" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
